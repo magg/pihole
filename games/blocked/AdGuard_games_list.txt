@@ -7556,8 +7556,6 @@ sites.google.com/site/unblockedgamesvevo
 ||netabalone.goto-games.com^
 ||netcartas.com.br^
 ||netdragons.com^
-||netflix-movies.cc^
-||netflix.com^
 ||netgame.com^
 ||nethry.cz^
 ||netigame.fr^
