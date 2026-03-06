@@ -3341,7 +3341,6 @@ sites.google.com/site/unblockedgamesvevo
 ||gamefair.fr^
 ||gamefalls.com^
 ||gamefans.com^
-||gamefaqs.com^
 ||gamefiber.com^
 ||gamefiesta.com^
 ||gamefilesland.com^
@@ -4098,7 +4097,6 @@ sites.google.com/site/unblockedgamesvevo
 ||gamesplus.com^
 ||gamesplz.com^
 ||gamespond.net^
-||gamespot.com^
 ||gamespresent.com^
 ||gamespro.fullblog.com.ar^
 ||gamespspslim.biz^
@@ -6576,7 +6574,6 @@ sites.google.com/site/unblockedgamesvevo
 ||kosmor.de^
 ||kostenlose-kartenspiele.de^
 ||kostenlosspielen.net^
-||kotaku.com^
 ||krabjiem.lv^
 ||kraina-bajek.pl^
 ||kraland.org^
@@ -8908,7 +8905,6 @@ sites.google.com/site/unblockedgamesvevo
 ||rpg.su^
 ||rpgaceltia.conceptbb.com^
 ||rpgame.clanfree.net^
-||rpgamer.com^
 ||rpgamers-fr.com^
 ||rpgcodex.net^
 ||rpgd.com^
