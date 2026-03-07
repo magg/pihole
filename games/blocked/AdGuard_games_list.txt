@@ -4106,7 +4106,6 @@ sites.google.com/site/unblockedgamesvevo
 ||gamesquare.nl^
 ||gamesquared.com^
 ||gamesquat.com^
-||gamesradar.com^
 ||gamesraid.com^
 ||gamesrebel.com^
 ||gamesreloaded.com^
@@ -4913,7 +4912,6 @@ sites.google.com/site/unblockedgamesvevo
 ||igirlgames.com^
 ||igirlsgames.com^
 ||igm.ne.jp^
-||ign.com^
 ||igol.be^
 ||igrajonline.com^
 ||igre-igrice.com^
