@@ -828,7 +828,6 @@ sites.google.com/site/unblockedgamesvevo
 ||awfularcades.com^
 ||awfulgames.com^
 ||awplanet.com^
-||aws.amazon.com^
 ||axelgame.free.fr^
 ||axeso5.com^
 ||axeuk.com^
