@@ -10227,8 +10227,6 @@ sites.google.com/site/unblockurgames^
 ||twilightus.net^
 ||twins.net^
 ||twistedgamez.net^
-||twitch.com^
-||twitch.tv^
 ||twizl.com^
 ||twoplayergames.org^
 ||twoplayergames2.com^
