@@ -2190,10 +2190,7 @@ sites.google.com/site/unblockedgamesvevo
 ||e-sudoku.fr^
 ||e-univers.org^
 ||e-zug.com^
-||ea.com^
-||ea.generation-nt.com^
 ||eactiv.com^
-||eagames.electronicarts.fr^
 ||ealiensoft.com^
 ||eamobile.com^
 ||earthlost.de^
